@@ -5,7 +5,7 @@ A personal portfolio built with **Next.js** and **Tailwind CSS** to showcase my 
 ---
 
 Live 
-🌐 https://yashraj-portfolio.vercel.app
+🌐 https://yashrajthakur-portfolio.vercel.app
 
 
 
